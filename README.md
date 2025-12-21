@@ -34,5 +34,4 @@ This project also includes a **Streamlit Web App** to check emails for spam in r
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/gmail-spam-detector.git
-cd gmail-spam-detector
+https://github.com/Atishkushwaha2004/Gmail-spam-detector.git
