@@ -16,7 +16,8 @@ st.write("Check whether an email is **Spam** or **Not Spam**")
 # -------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\HP\Downloads\gmail_spam_dataset_5000_rows.csv")
+    df = pd.read_csv("gmail_spam_dataset_5000_rows.csv")
+
     return df
 
 df = load_data()
@@ -70,3 +71,4 @@ if st.button("Check Spam"):
 # -------------------------------
 st.markdown("---")
 st.caption("Built using TF-IDF & Logistic Regression | ML Project")
+
