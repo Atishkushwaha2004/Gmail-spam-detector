@@ -47,5 +47,6 @@ https://github.com/Atishkushwaha2004/Gmail-spam-detector.git
 
 ## 🚀 Live Demo
 
-👉 [Click here to try](https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/)
+## 🚀 Live Demo
 
+👉 [Click here to try](https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/)
