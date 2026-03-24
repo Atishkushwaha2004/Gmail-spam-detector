@@ -43,9 +43,6 @@ Clone the repository:
 
 </p>
 
-
-## 🚀 Live Demo
-
 ## 🚀 Live Demo
 
 👉 [Click here to try](https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/)
