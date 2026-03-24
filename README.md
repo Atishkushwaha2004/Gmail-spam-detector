@@ -33,6 +33,12 @@ This project also includes a **Streamlit Web App** to check emails for spam in r
 
 Clone the repository:
 
+
+## 🚀 Live Demo
+
+<a href="https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/">Click here to try</a>
+
+
 ```bash
 
 
@@ -43,7 +49,3 @@ Clone the repository:
 
 </p>
 
-
-## 🚀 Live Demo
-
-<a href="https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/">Click here to try</a>
