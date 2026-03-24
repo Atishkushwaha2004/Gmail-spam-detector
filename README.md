@@ -43,7 +43,7 @@ Clone the repository:
 
 </p>
 
+
 ## 🚀 Live Demo
 
-👉 [Click here to try]
-(https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/)
+<a href="https://gmail-spam-detector-rmdmpefwnjfnvwpdp2walq.streamlit.app/">Click here to try</a>
