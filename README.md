@@ -56,6 +56,5 @@ Clone the repository:
 
 <p align="center">
   <img src="<img width="1049" height="773" alt="Output png" src="https://github.com/user-attachments/assets/6f931e74-4fbc-4da9-8c85-6ffb9e54e1f8" />
-
 </p>
 
