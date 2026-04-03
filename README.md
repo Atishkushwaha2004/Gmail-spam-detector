@@ -15,7 +15,8 @@ This project also includes a **Streamlit Web App** to check emails for spam in r
 - ✔ Real-time email testing in Streamlit  
 - ✔ 90%+ accuracy on dataset  
 - ✔ Easy-to-understand code  
-- ✔ Beginner-friendly project  
+- ✔ Beginner-friendly project
+  
 
 ---
 
