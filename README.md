@@ -3,7 +3,7 @@
 
 
 A complete **Email Spam Detection System** built using **Machine Learning**, **Natural Language Processing (NLP)**, **TF-IDF Vectorization**, and **Multinomial Naive Bayes**.    
-This project also includes a **Streamlit Web App** to check emails for spam in real-time.
+This project also includes a **Streamlit Web App** to check emails for spam in real-time.  
 
 ---
 
