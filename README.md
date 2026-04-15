@@ -11,7 +11,7 @@ This project also includes a **Streamlit Web App** to check emails for spam in r
 ## 🚀 Features
 
 - ✔ Machine Learning-based spam detection  
-- ✔ TF-IDF Vectorizer for text processing  
+- ✔ TF-IDF Vectorizer for text processing
 - ✔ Multinomial Naive Bayes classifier  
 - ✔ Real-time email testing in Streamlit  
 - ✔ 90%+ accuracy on dataset  
