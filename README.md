@@ -19,7 +19,6 @@ This project also includes a **Streamlit Web App** to check emails for spam in r
 - ✔ Beginner-friendly project
 
 
-
 ---
 
 ## 🧠 Tech Stack
